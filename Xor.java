@@ -32,7 +32,7 @@ public class Xor {
     private static String subm(String message) {
         String message1 = "hello";
         String message2 = ")$--.";
-        String message3 = "this is a test";
+        String message3 = " this is a test";
         String message4 = "f=;l5i:;f(s<#:";
         String ms = "";
         if (message.equals("message1"))
